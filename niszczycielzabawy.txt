@@ -1,4 +1,0 @@
-:start
-sleep 300
-taskkill -pid wpisz tu aplikacje
-goto start
